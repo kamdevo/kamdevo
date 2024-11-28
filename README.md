@@ -8,7 +8,7 @@
 
 # 💫 Sobre mí:
 
-<div>
+<div align="center">
   <p>
   Soy un estudiante de desarrollo de software de 17 años apasionado por los <br> idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, <br>  creativos y cuidadosamente elaborados.    
   </p>
