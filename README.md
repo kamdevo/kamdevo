@@ -2,7 +2,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=kamdevo&icon=0&color=8)](https://visitcount.itsvg.in)
 # 💫 Sobre mí:
-Soy un estudiante de desarrollo de software de 17 años apasionado por los idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, creativos y cuidadosamente elaborados.
+<div align="center">
+  <p>
+    Soy un estudiante de desarrollo de software de 17 años apasionado por los idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, creativos y cuidadosamente elaborados.
+  </p>
+</div>
+
 
 
 ## 🌐 Contáctame:
