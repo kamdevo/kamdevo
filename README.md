@@ -13,7 +13,7 @@
   Soy un estudiante de desarrollo de software de 17 años apasionado por los <br> idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, <br>  creativos y cuidadosamente elaborados.    
   </h3>
 </div>
-<div align="center">
+<div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200px">
 </div>
 
