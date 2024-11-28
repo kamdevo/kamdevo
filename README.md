@@ -1,5 +1,11 @@
 [![MasterHead](https://github.com/user-attachments/assets/80355dcc-e55f-4ccb-94fa-246881a36840)](https://github.com/kamdevo)
-
+<div align="left">
+<h3>About me</h3>
+<p>my description</p>
+</div>
+<div align="right">
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI4MDYyMTgsIm5iZiI6MTczMjgwNTkxOCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI4VDE0NTgzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlN2QxYzRjMTdjMDcxOTc4MTQ0Nzc2MTgyZTU3ODYwNTMxZDM4MDUwZGZiMDE4ODM2YzJiNDhlNzIyODM5OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dKxhCsu9g7wSO0ObzOGToLT0VcWK_LWBGf0d4-1GULM" width="400px">	
+</div>
 <h3>💻 My tech stack</h3>
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -14,6 +20,4 @@
 </div>
 <br/>
 <br/>
-<div align="right">
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI4MDYyMTgsIm5iZiI6MTczMjgwNTkxOCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI4VDE0NTgzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlN2QxYzRjMTdjMDcxOTc4MTQ0Nzc2MTgyZTU3ODYwNTMxZDM4MDUwZGZiMDE4ODM2YzJiNDhlNzIyODM5OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dKxhCsu9g7wSO0ObzOGToLT0VcWK_LWBGf0d4-1GULM" width="400px">	
-</div>
+
