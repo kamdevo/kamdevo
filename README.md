@@ -13,9 +13,9 @@ Soy un estudiante de desarrollo de software de 17 años apasionado por los idiom
 
 
 ## 👾 Mis tecnologías
-  <p align="left">
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb&perline=4" />
   </a>
 </p>
 
