@@ -6,7 +6,7 @@ Soy un estudiante de desarrollo de software de 17 años apasionado por los idiom
 
 
 ## 🌐 Contáctame:
-<a>
+<a href="https://discordapp.com/users/726896243623591976">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
