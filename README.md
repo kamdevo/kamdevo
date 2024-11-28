@@ -9,7 +9,7 @@
 # 💫 Sobre mí:
 
 <div>
-  <p align="left">
+  <p align="center">
     Soy un estudiante de desarrollo de software de 17 años apasionado por los <br> idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, <br>  creativos y cuidadosamente elaborados.
   </p>
   <img src="bendy.gif" width="100px">
