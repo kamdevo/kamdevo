@@ -21,7 +21,7 @@
 
 
 
-<h2><img src="pokemon.gif"> Sociales</h2>
+<h2><img src="pokemon.gif" width="40px"> Sociales</h2>
 <div align="center">
 <a href="https://discordapp.com/users/726896243623591976">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
