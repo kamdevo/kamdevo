@@ -2,7 +2,9 @@
 [![](https://visitcount.itsvg.in/api?id=kamdevo&icon=0&color=8)](https://visitcount.itsvg.in)
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius&size=31&pause=998&color=5781DC&center=true&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=31&pause=998&color=5781DC&center=true&width=435&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
+</div>
 # 💫 Sobre mí:
 <div align="left">
   <p>
