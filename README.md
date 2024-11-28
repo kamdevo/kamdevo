@@ -13,6 +13,10 @@ Soy un estudiante de desarrollo de software de 17 años apasionado por los idiom
 
 
 ## 👾 Mis tecnologías
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,nodejs,react&perline=4)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb&perline=3" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
