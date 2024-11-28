@@ -21,7 +21,7 @@
 
 
 
-<h2><img src="pokemon.gif" width="40px"> Sociales</h2>
+<h2> Sociales</h2>
 <div align="center">
 <a href="https://discordapp.com/users/726896243623591976">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -35,7 +35,7 @@
 </div>
 
 
-## 👾 Mis tecnologías
+<h2><img src="pokemon.gif" width="40px"> Mis tecnologías</h2>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb,mysql" />
