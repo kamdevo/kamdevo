@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=31&pause=998&color=5781DC&center=true&width=435&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
 </div>
 
-<img src="totoro.gif" width="40px"> # Sobre mí:
+<img src="totoro.gif" width="40px"> <h2>Sobre mí</h2>
 
 <div align="center">
   <p>
@@ -21,7 +21,7 @@
 
 
 
-<img src="pokemon.gif"> ##  Contáctame:
+<img src="pokemon.gif"> <h2>Sociales</h2>
 <div align="center">
 <a href="https://discordapp.com/users/726896243623591976">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
