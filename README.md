@@ -1,3 +1,2 @@
-🌟 ¡Welcome to my Gtihub profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamdevo&show_icons=true&theme=transparent)
+![banner](https://github.com/user-attachments/assets/80355dcc-e55f-4ccb-94fa-246881a36840)
