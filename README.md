@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=31&pause=998&color=5781DC&center=true&width=435&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
 </div>
 
- <h2> Sobre mí <img src="totoro.gif" width="40px"></h2>
+ <h1> Sobre mí <img src="totoro.gif" width="40px"></h1>
 
 <div align="center">
   <p>
@@ -21,7 +21,7 @@
 
 
 
-<h2> Sociales <img src="book.gif" width="40px"></h2>
+<h1> Sociales <img src="book.gif" width="40px"></h1>
 <div align="center">
 <a href="https://discordapp.com/users/726896243623591976">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -35,7 +35,7 @@
 </div>
 
 
-<h2>Mis tecnologías <img src="pokemon.gif" width="40px"></h2>
+<h1>Mis tecnologías <img src="pokemon.gif" width="40px"></h1>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb,mysql" />
