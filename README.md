@@ -7,13 +7,13 @@
 </div>
 
 # 💫 Sobre mí:
-<section>
+<section style="display:flex;align-items:center;">
 <div align="left">
   <p>
     Soy un estudiante de desarrollo de software de 17 años apasionado por los <br> idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, <br>  creativos y cuidadosamente elaborados.
   </p>
 </div>
-<div align="right">
+<div>
   <img src="bendy.gif" width="40px">
 </div>
 </section>
