@@ -9,9 +9,9 @@
  <h1> Sobre mí <img src="totoro.gif" width="40px"></h1>
 
 <div align="left">
-  <h3>
-  Soy un estudiante de desarrollo de software de 17 años apasionado por los <br> idiomas y el diseño web. Entusiasmado por crear proyectos nuevos, <br>  creativos y cuidadosamente elaborados.    
-  </h3>
+  <ul>
+    <li>17 años</li>
+  </ul>
 </div>
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200px">
