@@ -29,7 +29,7 @@
 <h1>Mis tecnologías <img src="pokemon.gif" width="40px"></h1>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,css,js,nodejs,react,git,mongodb" />
   </a>
 </p>
 
