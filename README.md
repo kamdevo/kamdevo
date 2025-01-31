@@ -8,7 +8,7 @@
 
  <h1> Sobre mí <img src="totoro.gif" width="40px"></h1>
 <div>
-  👨🏻 17 años | 🌐 Estudiando diseño web | 🌎 Apasionado por los idiomas | 📕 Inglés C1
+ 🌐 Estudiando diseño web | 🌎 Apasionado por los idiomas | 📕 Inglés C1
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100" align="right">
 </div>
