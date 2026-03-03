@@ -8,14 +8,14 @@
 
  <h1> Sobre mí <img src="totoro.gif" width="40px"></h1>
 <div>
- 🌐 Estudiando desarrollo de software | 🌎 Apasionado por los idiomas | 📕 Inglés C1
+ 🌐 Currently studying software development | 🌎 Traveling lover |
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100" align="right">
 </div>
 
 
 
-<h1> Sociales <img src="book.gif" width="40px"></h1>
+<h1> Socials <img src="book.gif" width="40px"></h1>
 <div align="center">
 <a href="https://discordapp.com/users/726896243623591976">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -26,7 +26,7 @@
 </div>
 
 
-<h1>Mis tecnologías <img src="pokemon.gif" width="40px"></h1>
+<h1>My stack <img src="pokemon.gif" width="40px"></h1>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,git,mongodb,php,tailwindcss," />
