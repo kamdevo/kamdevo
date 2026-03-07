@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=31&pause=998&color=5781DC&center=true&width=435&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
 </div>
 
- <h1> Sobre mí <img src="totoro.gif" width="40px"></h1>
+ <h1> About me <img src="totoro.gif" width="40px"></h1>
 <div>
  🌐 Currently studying software development | 🌎 Traveling lover |
 
