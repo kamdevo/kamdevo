@@ -29,7 +29,7 @@
 <h1>My stack <img src="pokemon.gif" width="40px"></h1>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,git,mongodb,php,tailwindcss," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,git,tailwindcss," />
   </a>
 </p>
 
